@@ -1,5 +1,5 @@
 [elasticsearch]
-host=elasticsearch.kuainiujinke.com
+host=xxxxxxxxx
 port=9200
 
 [redis]
